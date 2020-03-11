@@ -1,6 +1,6 @@
 # ColorGame
 
-An simple browser game built for my webdev bootcamp.
+A simple browser game built for my webdev bootcamp.
 
 # What I Learned
 
